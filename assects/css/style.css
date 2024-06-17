@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    padding: 40px;
+    background-color: #ccc;
+}
+
+.header-header h1{
+    text-transform: capitalize;
+    color: orange;
+    font-weight: bold;
+}
+
+.para p{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.country-info{
+    padding: 40px 0; 
+}
+
+.form-control{
+    border-radius: 50px;
+}
+
+.navbar{
+    list-style: none;
+}
+
+#Name, #Capital, #Population{
+    width: 100px;
+    border-radius: 50px;
+    background-color: orange;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    color: #000;
+    
+}
+
+.fonta{
+    font-size: 45px;
+    color: orange;
+    margin-left: 10px;
+}
+
+.main-info{
+    background-color: #ccc;
+    padding: 20px;
+}
+
+.card{
+    height: 350px;
+    width: 250px;
+}
+
+.flag{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+figcaption h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.fig-caption ,h2,h3,h4{
+    font-size: 15px;
+}
+
